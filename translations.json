@@ -1,0 +1,49 @@
+{
+  "translations": [
+    {
+      "language_code": "en",
+      "language_name": "English",
+      "name": "New King James Version",
+      "abbreviation": "NKJV",
+      "file": "NKJV.json",
+      "book_count": 66,
+      "verse_count": 31102
+    },
+    {
+      "language_code": "es",
+      "language_name": "Español",
+      "name": "Reina-Valera 1960",
+      "abbreviation": "RVR1960",
+      "file": "RVR1960.json",
+      "book_count": 66,
+      "verse_count": 31104
+    },
+    {
+      "language_code": "fr",
+      "language_name": "Français",
+      "name": "Louis Segond 1910",
+      "abbreviation": "LSG",
+      "file": "LSG.json",
+      "book_count": 66,
+      "verse_count": 31102
+    },
+    {
+      "language_code": "sw",
+      "language_name": "Kiswahili",
+      "name": "Swahili New Testament (Agano Jipya)",
+      "abbreviation": "SWNT",
+      "file": "SWNT.json",
+      "book_count": 26,
+      "verse_count": 7853
+    },
+    {
+      "language_code": "ja",
+      "language_name": "日本語",
+      "name": "口語訳 (Kougo-yaku 1955)",
+      "abbreviation": "KOUGO",
+      "file": "KOUGO.json",
+      "book_count": 66,
+      "verse_count": 31100
+    }
+  ]
+}
